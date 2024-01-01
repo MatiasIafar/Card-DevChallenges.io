@@ -14,7 +14,7 @@ body {
   justify-content: center;
   align-items: center;
   padding-top: 164px;
-  background-color: #fff;
+  background-color: #FAFAF9;
 }
 
 .card {
@@ -54,6 +54,7 @@ span {
 .main p {
   padding-bottom: 20px;
   font-size: 14px;
+  color: #6C727F ;
 }
 
 footer {
@@ -63,4 +64,5 @@ footer {
 
 footer p {
   font-size: 12px;
+  color: #6C727F;
 }
